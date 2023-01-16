@@ -28,21 +28,21 @@ The program is divided into several functions, each responsible for a specific t
 
 The program is written in C++ and consists of 5 functions:<br> 
 
-1. 'AddMoney()' function prompts the user to enter the name of a person and the amount spent by that person.<br>
-2. 'See()' function displays the names of the people and the amount spent by each person.<br>
-3. 'TotalSpendings()' function calculates the total spendings.<br>
-4. 'PerHead function()' calculates the amount to be paid by each person.<br>
-5. 'Settle()' function calculates and displays the amount to be paid by one person to another to settle the expenditure.<br>
+1. ***'AddMoney'*** function prompts the user to enter the name of a person and the amount spent by that person.<br>
+2. ***'See'*** function displays the names of the people and the amount spent by each person.<br>
+3. ***'TotalSpendings'*** function calculates the total spendings.<br>
+4. ***'PerHead function'*** calculates the amount to be paid by each person.<br>
+5. ***'Settle'*** function calculates and displays the amount to be paid by one person to another to settle the expenditure.<br>
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Examples:
 
-Input: <br>
+**Input:** <br>
 Number of people: 3 <br>
 Names: John, Jane, Jack <br>
 Amounts spent: 100, 200, 150 <br>
 
-Output: <br>
+**Output:** <br>
 Total spendings: 450 <br>
 Amount per head: 150 <br>
 John should pay 0 to Jane, and 50 to Jack. <br>
