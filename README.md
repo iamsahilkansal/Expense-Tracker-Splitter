@@ -2,7 +2,8 @@
 
 ## A brief overview of the project:
 
-This project is a basic expense splitter and settler program. It allows users to input the names of individuals and the amount spent by each person, and then calculates the total spendings and the amount each person should pay. It also includes a function to settle the expenditure among the individuals.
+#### Have you ever felt like you were in a group where everyone contributed different amounts for a shared expense and you didn't know how to settle the amount fairly among all members? <br> 
+This project aims to solve that problem by providing a simple and easy to use expense splitter and settler. With features like adding and tracking the amount contributed by each member, calculating the total spendings, and providing a fair way to settle the amount among all members, this project is perfect for anyone who wants to make sure that shared expenses are settled fairly and easily.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Installation instructions:
