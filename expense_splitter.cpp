@@ -27,7 +27,7 @@ void AddMoney(string *name, float n, float *amount){
 
 void See(string *name, int n, float *amount){
 	for (int i = 0; i < n; i++){
-		cout << name[i] << "paid: " ;
+		cout << name[i] << " paid: " ;
 		printf("%0.2f\n", amount[i]);
 	}
 }
