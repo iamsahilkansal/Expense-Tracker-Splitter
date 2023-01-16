@@ -2,7 +2,7 @@
 
 ## A brief overview of the project:
 
-#### Have you ever felt like you were in a group where everyone contributed different amounts for a shared expense and you didn't know how to settle the amount fairly among all members? <br> 
+***Have you ever felt like you were in a group where everyone contributed different amounts for a shared expense and you didn't know how to settle the amount fairly among all members?***<br> <br>
 This project aims to solve that problem by providing a simple and easy to use expense splitter and settler. With features like adding and tracking the amount contributed by each member, calculating the total spendings, and providing a fair way to settle the amount among all members, this project is perfect for anyone who wants to make sure that shared expenses are settled fairly and easily.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
