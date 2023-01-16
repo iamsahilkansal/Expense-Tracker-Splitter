@@ -46,9 +46,7 @@ Amounts spent: 100, 200, 150 <br>
 **Output:** <br>
 Total spendings: 450 <br>
 Amount per head: 150 <br>
-John should pay 0 to Jane, and 50 to Jack. <br>
-Jane should pay 50 to John. <br>
-Jack should pay 0 to John and 50 to Jane. <br>
+John should pay 50 to Jane.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Known issues:
