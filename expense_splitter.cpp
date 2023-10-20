@@ -1,8 +1,4 @@
-#include <iostream>
-#include <stdio.h>
-#include <conio.h>
-#include <stdlib.h>
-#include <math.h>
+#include <bits/stdc++.h>
 using namespace std;
 
 void AddMoney(string *name, float n, float *amount)
